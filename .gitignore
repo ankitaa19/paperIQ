@@ -6,3 +6,5 @@ __pycache__/
 vector_db/*.faiss
 vector_db/*.pkl
 data/processed/*.json
+.agents/
+.claude/
