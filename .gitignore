@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+vector_db/*.faiss
+vector_db/*.pkl
+data/processed/*.json

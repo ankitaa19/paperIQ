@@ -1,0 +1,10 @@
+groq
+pymupdf
+sentence-transformers
+faiss-cpu
+streamlit
+python-dotenv
+numpy
+pandas
+scikit-learn
+matplotlib
